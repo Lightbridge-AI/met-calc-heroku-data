@@ -1,0 +1,11 @@
+path:
+- data.csv
+- data.rds
+rows: 198
+cols: 3
+columns:
+  Baro: numeric
+  Temp_c: numeric
+  STPD: numeric
+description: STPD correction factor at 750-770 mmHg
+type: table
