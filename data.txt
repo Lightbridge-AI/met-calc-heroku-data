@@ -8,3 +8,7 @@
   name: male-fit
   description: Smooth spline fit of Basal metabolic rate in normal male by age
   type: default
+- path: female-fit
+  name: female-fit
+  description: Smooth spline fit of Basal metabolic rate in normal female by age
+  type: default

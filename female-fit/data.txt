@@ -1,0 +1,3 @@
+path: data.rds
+description: Smooth spline fit of Basal metabolic rate in normal female by age
+type: default
